@@ -2,7 +2,7 @@
 
 Organizzazione creata allo scopo di realizzare il progetto di **Ingegneria del Software (SWE)** per l’anno accademico **2025/2026** presso l’Università degli Studi di Padova.
 
-La repository principale (https://github.com/Synergo-Unit-UniPD/Documentary-Repo.git) contiene tutta la documentazione ufficiale prodotta dal gruppo, strutturata secondo le baseline previste dal corso (CC, RTB, PB) e pubblicata tramite GitHub Pages.
+La **repository documentale (https://github.com/Synergo-Unit-UniPD/Documentary-Repo.git)** contiene tutta la documentazione ufficiale prodotta dal gruppo, strutturata secondo le baseline previste dal corso (CC, RTB, PB) e pubblicata tramite GitHub Pages.
 
 ---
 
